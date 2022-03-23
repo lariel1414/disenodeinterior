@@ -1,0 +1,78 @@
+*{  
+    margin:0px;
+    padding:0px;
+}
+#principal{
+    width:960px;
+    height: 900px; 
+    margin: 0px auto;
+    background: black;
+    }
+header{
+    width: 960px;
+    height: 200px;
+    background: rgb(0, 255, 34);
+}
+nav {
+    width: 960px;
+    height: 100px;
+    background: red;
+}
+#izq {
+    width: 400px;
+    height: 550px;
+    background: rgb(217, 255, 0);
+    float: left;
+}
+#der {
+    width: 400px;
+    height: 550px;
+    background: rgb(103, 88, 138);
+    float: left;
+}
+aside {
+    width: 160px;
+    height: 550px;
+    background: rgb(0, 183, 255);
+    float: left;
+
+}
+#caja {
+    width: 300px;
+    height: 200px;
+    background: rgb(202, 172, 196);
+    margin-left: 50px ;
+    margin-top: 70px;
+    font-family: 'Palette Mosaic', cursive;
+    
+}
+.cajitas {
+    width: 300px;
+    height: 100px;
+    background: rgb(70, 23, 114);
+    margin-left: 50px ;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+    
+footer {
+    width: 960px;
+    height: 50px;
+    background: rgb(113, 211, 104);
+    float: left;
+}
+h1 
+{
+    font-family: 'Hurricane', cursive;
+    text-align: center;
+    font-size: 35px;
+}
+ul
+{
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    
+}
+li{
+    list-style-position: inside;
+}
