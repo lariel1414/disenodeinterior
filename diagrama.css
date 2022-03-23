@@ -47,10 +47,18 @@ aside {
     
     
 }
-.cajitas {
+.cajitas1 {
     width: 300px;
     height: 100px;
     background: rgb(70, 23, 114);
+    margin-left: 50px ;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+.cajitas2 {
+    width: 300px;
+    height: 100px;
+    background: rgb(74, 67, 77);
     margin-left: 50px ;
     margin-top: 50px;
     margin-bottom: 20px;
@@ -67,7 +75,7 @@ h1
     font-family: 'Hurricane', cursive;
     text-align: center;
     font-size: 35px;
-    color: aliceblue;
+    color: rgba(240, 248, 255, 0.829);
 }
 
 h2 
@@ -75,7 +83,7 @@ h2
     font-family: 'Palette Mosaic', cursive;
     text-align: center;
     font-size: 25px;
-    color:rgba(67, 14, 214, 0.78);}
+    color:rgba(16, 15, 17, 0.78);}
 
 h3 
     {
