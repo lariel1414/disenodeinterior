@@ -11,17 +11,18 @@
 header{
     width: 960px;
     height: 200px;
-    background: rgb(0, 255, 34);
+    background:rgba(219, 126, 200, 0.48);
 }
+
 nav {
     width: 960px;
-    height: 100px;
-    background: red;
+    height: 70px;
+    background:grey;
 }
 #izq {
     width: 400px;
     height: 550px;
-    background: rgb(217, 255, 0);
+    background: rgb(70, 212, 193);
     float: left;
 }
 #der {
@@ -40,10 +41,10 @@ aside {
 #caja {
     width: 300px;
     height: 200px;
-    background: rgb(202, 172, 196);
+    background: rosybrown;
     margin-left: 50px ;
     margin-top: 70px;
-    font-family: 'Palette Mosaic', cursive;
+    
     
 }
 .cajitas {
@@ -66,13 +67,19 @@ h1
     font-family: 'Hurricane', cursive;
     text-align: center;
     font-size: 35px;
+    color: aliceblue;
 }
-ul
+
+h2 
 {
+    font-family: 'Palette Mosaic', cursive;
     text-align: center;
-    font-family: 'Lato', sans-serif;
-    
-}
-li{
-    list-style-position: inside;
-}
+    font-size: 25px;
+    color:rgba(67, 14, 214, 0.78);}
+
+h3 
+    {
+        font-family: 'Lato', sans-serif;
+        text-align: center;
+        font-size: 15px;
+        color:black;} 
