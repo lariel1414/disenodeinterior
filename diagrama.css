@@ -129,9 +129,34 @@ h4
         margin-top: 15%;
         
     } 
-.text4 {
+.contenedor 
+    {
     position: relative;
+    }
+.text4 {
+    position: absolute;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     display: flexbox ;
     text-align: center;
+    top: 10%;
+    left: 20%;
+    color: rgb(15, 14, 14);
+}
+.text5 {
+    position: absolute;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: flexbox ;
+    text-align: center;
+    top: 50%;
+    left: 20%;
+    color: rgb(15, 14, 14);
+}
+.text6 {
+    position: absolute;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: flexbox ;
+    text-align: center;
+    top: 85%;
+    left: 20%;
+    color: rgb(15, 14, 14);
 }
